@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep ResolveTrack on the existing TanStack Start and Lovable Cloud stack, using its typed database client and role-checked database functions; do not introduce a parallel Java service because this workspace deploys as a TanStack app.

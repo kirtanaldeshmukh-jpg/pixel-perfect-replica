@@ -1,6 +1,6 @@
 # ResolveTrack roadmap
 
-- [ ] Replace template home with the ResolveTrack experience and design system.
-- [ ] Add secure Cloud authentication, profile, role, and grievance schema/policies.
-- [ ] Implement persistent complaint workflows, duplicate/priority/routing logic, tracking, support, notifications, feedback, and analytics views.
-- [ ] Add development/progress documentation and verify the app and major available workflows.
+- [ ] Replace the placeholder with the ResolveTrack sign-in and student workspace.
+- [ ] Connect self-service student accounts and managed Google/Lovable sign-in to Cloud profiles and protected roles.
+- [ ] Implement complaint filing, duplicate suggestions, support, timelines, notifications, staff actions, escalation visibility, feedback, and data-backed campus/admin views.
+- [ ] Add password recovery, development progress notes, tests, and verify public and authenticated workflows where an account is available.
